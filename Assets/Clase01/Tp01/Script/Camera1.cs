@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Camera : MonoBehaviour
+public class Camera1 : MonoBehaviour
 {
     bool castSwitch=true;
     int planet=0;
@@ -15,7 +15,6 @@ public class Camera : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
     }
 
     // Update is called once per frame
